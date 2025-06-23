@@ -13,7 +13,7 @@ I'm Cameron Johnson, a student at Brigham Young University-Idaho interested in c
 ## Technologies and Tools
 
 - Proficient in: Dart, Python, C#, C++, Svelte, Javascript
-- Skills: Git, JSON, Flutter, Tailwind, Sveltekit
+- Skills: Git, JSON, Flutter, HTML, CSS, Tailwind, Sveltekit, Firebase, Supabase, Google Analytics
 
 ## Let's Connect!
 
