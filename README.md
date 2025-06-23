@@ -1,16 +1,23 @@
-## Hi there 👋
+# Cameron Johnson
 
-<!--
-**CameronRJohnson/CameronRJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Cameron Johnson, a student at Brigham Young University-Idaho interested in computer science. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning to improve my skills with OOP languages. This includes programming micro-controllers, web applications, and much more.
+- My goal is to work as a full-stack developer, programming both front-end and optimizing back-end code for maximum efficiency.
+- When I am not coding, I also love to snowboard, fish, and play lots of video games.
+
+## Technologies and Tools
+
+- Proficient in: Dart, Python, C#, C++, Svelte, Javascript
+- Skills: Git, JSON, Flutter, Tailwind, Sveltekit
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/cameron-johnson-b13b54200/) profile
+- Here is my [Instagram](https://www.instagram.com/cameron.__.j/?hl=en) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
